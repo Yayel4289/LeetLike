@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce76d4be-d0aa-476a-97ec-6bb9118019b1" name="Changes" comment="solved flowerbed_605.py">
-      <change afterPath="$PROJECT_DIR$/LeetCode/reverse_vowels_345.py" afterDir="false" />
+    <list default="true" id="ce76d4be-d0aa-476a-97ec-6bb9118019b1" name="Changes" comment="changed file tree">
+      <change afterPath="$PROJECT_DIR$/LeetCode/Yael/reverse_words_in_string_151.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,24 +39,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.gcd_string_1071.executor&quot;: &quot;Run&quot;,
-    &quot;Python.greatest_candies_number_1431.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.merge_strings_alternately_1768.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;LeetCode&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.gcd_string_1071.executor": "Run",
+    "Python.greatest_candies_number_1431.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.merge_strings_alternately_1768.executor": "Run",
+    "Python.reverse_words_in_string_151.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "LeetCode",
+    "settings.editor.selected.configurable": "configurable.group.tools"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/LeetCode/Yael" />
       <recent name="$PROJECT_DIR$/LeetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_vowels_345">
+  <component name="RunManager" selected="Python.reverse_words_in_string_151">
     <configuration name="gcd_string_1071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetLike" />
       <option name="ENV_FILES" value="" />
@@ -70,7 +72,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/gcd_string_1071.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/gcd_string_1071.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -92,7 +94,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/greatest_candies_number_1431.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/greatest_candies_number_1431.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +138,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/merge_strings_alternately_1768.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/merge_strings_alternately_1768.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +160,29 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/reverse_vowels_345.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/reverse_vowels_345.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reverse_words_in_string_151" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="LeetLike" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LeetCode/Yael" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/reverse_words_in_string_151.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,6 +193,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverse_words_in_string_151" />
         <item itemvalue="Python.reverse_vowels_345" />
         <item itemvalue="Python.greatest_candies_number_1431" />
         <item itemvalue="Python.gcd_string_1071" />
@@ -232,7 +257,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726427343701</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="changed file tree">
+      <option name="closed" value="true" />
+      <created>1726502295584</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726502295584</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -241,6 +274,7 @@
     <MESSAGE value="solving gcd strings 1071" />
     <MESSAGE value="solving kids candies 1431" />
     <MESSAGE value="solved flowerbed_605.py" />
-    <option name="LAST_COMMIT_MESSAGE" value="solved flowerbed_605.py" />
+    <MESSAGE value="changed file tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="changed file tree" />
   </component>
 </project>
