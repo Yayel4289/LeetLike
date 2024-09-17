@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce76d4be-d0aa-476a-97ec-6bb9118019b1" name="Changes" comment="added 0lliec_python-programming-competition.pdf to the potential cheatsheets">
-      <change afterPath="$PROJECT_DIR$/BAPC/heimavinna.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ce76d4be-d0aa-476a-97ec-6bb9118019b1" name="Changes" comment="organised (a bit) files">
+      <change afterPath="$PROJECT_DIR$/BAPC/Python/message.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +57,14 @@
       <recent name="$PROJECT_DIR$/BAPC/CheatSheetIdeas" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/BAPC/Java" />
+      <recent name="$PROJECT_DIR$/BAPC/Python" />
+      <recent name="$PROJECT_DIR$/BAPC/CheatSheetIdeas/Python" />
       <recent name="$PROJECT_DIR$/LeetCode/Yael" />
       <recent name="$PROJECT_DIR$/LeetCode" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.reverse_words_in_string_151">
+  <component name="RunManager" selected="Python.message">
     <configuration name="gcd_string_1071" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetLike" />
       <option name="ENV_FILES" value="" />
@@ -129,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="merge_strings_alternately_1768" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="message" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="LeetLike" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -138,11 +140,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/BAPC/Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LeetCode/Yael/merge_strings_alternately_1768.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BAPC/Python/message.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +199,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.message" />
         <item itemvalue="Python.reverse_words_in_string_151" />
         <item itemvalue="Python.reverse_vowels_345" />
         <item itemvalue="Python.greatest_candies_number_1431" />
         <item itemvalue="Python.gcd_string_1071" />
-        <item itemvalue="Python.merge_strings_alternately_1768" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +279,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726600647686</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="solved heimavinna.py">
+      <option name="closed" value="true" />
+      <created>1726605869263</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726605869263</updated>
+    </task>
+    <task id="LOCAL-00009" summary="organised (a bit) files">
+      <option name="closed" value="true" />
+      <created>1726606044688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726606044688</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -288,6 +306,8 @@
     <MESSAGE value="solved flowerbed_605.py" />
     <MESSAGE value="changed file tree" />
     <MESSAGE value="added 0lliec_python-programming-competition.pdf to the potential cheatsheets" />
-    <option name="LAST_COMMIT_MESSAGE" value="added 0lliec_python-programming-competition.pdf to the potential cheatsheets" />
+    <MESSAGE value="solved heimavinna.py" />
+    <MESSAGE value="organised (a bit) files" />
+    <option name="LAST_COMMIT_MESSAGE" value="organised (a bit) files" />
   </component>
 </project>
