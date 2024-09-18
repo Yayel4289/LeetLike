@@ -6,14 +6,11 @@ public class architecture{
 				int maxv = maxVer(tab,x,i);
 			//	System.out.println(maxh);
 			//	System.out.println(maxv);
-				if(R[i] > maxh){
+				if(R[i] > maxh || C[i] > maxv){
 					return "impossible";
-					}
-			       if(C[i] > maxv){
-			       	       return "impossible";
-			      	 	}	
+					}	       	
 			}
-	return "possible";	
+		return "possible";	
 		}
 	
 	public static int maxHori(int[][] R,int y, int inter){
