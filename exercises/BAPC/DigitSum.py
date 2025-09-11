@@ -1,5 +1,4 @@
 import math
-
 def decompose(i):
     res = 0
     while i >= 10:
@@ -26,9 +25,15 @@ def digitSum(i,j):
         if i%10==0 and i!=first:
             addi= decompose(i)
         i = i+1
-        print(addi)
         res=res+addi
         addi+=1
     return round(res)
 
+print(digitSum(0,10))
+print(digitSum(28,31))
 print(digitSum(1234,56789))
+print(digitSum(10,20))
+print(digitSum(20,30))
+print(digitSum(1,2))
+print(digitSum(12,83))
+
